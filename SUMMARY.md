@@ -1,4 +1,5 @@
 # Table of contents
 
-* [Instruction Case](README.md)
-* [Case 1](case-1.md)
+* [Page 1](README.md)
+* [Instruction Case](instruction-case/README.md)
+  * [Case 1](instruction-case/case-1.md)
